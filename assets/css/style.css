@@ -55,6 +55,9 @@ h5 {
         position: relative;
     }
 }
+.bgsl {
+    background-color: #000;
+}
 
 .probootstrap-navabr-dark .navbar-nav>.nav-item>.nav-link {
     font-size: 16px;
