@@ -58,6 +58,9 @@ h5 {
 .bgsl {
     background-color: #000;
 }
+.btnsl {
+    background-color: #FFD700;
+}
 
 .probootstrap-navabr-dark .navbar-nav>.nav-item>.nav-link {
     font-size: 16px;
